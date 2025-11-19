@@ -25,7 +25,7 @@ MongoDB.
 
 
 ## Setup and Installation:
-### 1. Clone the repository: https://github.com/Asitmondal/GetSocial-Social-Media-Web-App-in-NodeJS.git
+### 1. Clone the repository: 
 cd GetSocial
 ### 2. Set up the backend:
 cd backend <br>
