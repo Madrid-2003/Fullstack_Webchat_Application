@@ -21,8 +21,7 @@ React, HTML, CSS.
 Node.js, Express.js.
 ## Database: 
 MongoDB.
-Real-time Communication: Socket.io.
-Cloud Deployment: Compatible with AWS, Heroku, Azure, etc.
+
 
 
 ## Setup and Installation:
